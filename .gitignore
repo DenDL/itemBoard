@@ -1,9 +1,5 @@
 .DS_Store
 node_modules
-/!css/!*.*
-/!js/!*.*
-!favicon.ico
-!index.html
 
 
 # local env files
